@@ -14,8 +14,13 @@ knit        : slidify::knit2slides
 ## Market Research
 
 - Personal Health Market is exploding
-- Give a pie chart for weigh loss market
-- Provide future potential for market
+- Figure shows the Total weight loss/gain Market and the share of weight monitoring tool
+
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+
+- Significant potential for weight monitoring tool like a BMI calculator
+
+- This tool can be integrated with a wearable device which can store and monitor BMI over a duration
 
 --- .class #id 
 
@@ -33,15 +38,19 @@ knit        : slidify::knit2slides
 - This app takes following inputs
   - Measurement system: Metric or Imperial system
   - In Metric system input is 
-    --  Weight in slider form in Kilograms
-    --  Height in slider form in Meters
+      +  Weight in slider form in Kilograms
+      +  Height in slider form in Meters
   - In Imperial system input is 
-    --  Weight in slider form in Lbs
-    --  Height in slider form in Feet and Inches
+      + Weight in slider form in Lbs
+      +  Height in slider form in Feet and Inches
 
 --- .class #id 
 
 ## App Usage and Examples
 
---- .class #id
+- Following is the screen shot of the application
+
+![Caption for the picture.](screen.png)
+
+
 
