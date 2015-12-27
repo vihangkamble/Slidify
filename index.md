@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
 
 ## App Features
 
-- Weight maintainence programs tracks body mass index (BMI).
+- Weight maintenance programs tracks body mass index (BMI).
 - BMI is defined as body mass divided by the square of the body height.
 - BMI normalizes the body mass over different heights and it loosely gives a measure of a person's thinness or thickness
 - BMI is mapped into various weight categories
